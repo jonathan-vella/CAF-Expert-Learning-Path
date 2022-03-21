@@ -6,19 +6,13 @@ By using Cloud Adoption Framework best practices, organizations are better able 
 
 [Explore the Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
-![](https://azurecomcdn.azureedge.net/cvt-59c970d4a01a11a415d21d7b1e89b8cee263ddbfcc45158b1719792a36bbb47b/svg/gears-search.svg)
-
 ## Realize your business objectives
 
 Identify opportunities for your organization in the cloud and realize your objectives using cloud technology.
 
-![](https://azurecomcdn.azureedge.net/cvt-59c970d4a01a11a415d21d7b1e89b8cee263ddbfcc45158b1719792a36bbb47b/svg/buildings-cloud-blue.svg)
-
 ## Prepare your organization for the cloud
 
 Identify productive and sustainable ways to help your organization understand and embrace technology changes that will improve business outcomes.
-
-![](https://azurecomcdn.azureedge.net/cvt-59c970d4a01a11a415d21d7b1e89b8cee263ddbfcc45158b1719792a36bbb47b/svg/square-of-squares.svg)
 
 ## Migrate to the cloud and optimize
 

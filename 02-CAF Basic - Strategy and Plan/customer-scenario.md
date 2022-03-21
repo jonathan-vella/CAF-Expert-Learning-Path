@@ -4,8 +4,10 @@
 
 ## Customer Scenario - Contoso Land Surveying
 
-**Contoso Land Surveying** operates a global geology surveying business, where they deploy surveyors to carry out detailed land surveys for companies such as food producers, airports, oil companies, utilities, railway companies, ports authorities and other infrastructure heavy / reliant businesses. Surveys are carried out on dry land as well as underwater and in areas of variable terrain. They see an opportunity to leverage technology such as drones, data and AI to improve efficiency and provide deeper insight into surveys predicting challenges today and in the future for their clients and their use of land as an asset.
- 
+**Contoso Land Surveying** operates a global geology surveying business, where they deploy surveyors to carry out detailed land surveys for companies such as food producers, airports, oil companies, utilities, railway companies, ports authorities and other infrastructure heavy / reliant businesses. Surveys are carried out on dry land as well as underwater and in areas of variable terrain.
+
+They see an opportunity to leverage technology such as drones, data and AI to improve efficiency and provide deeper insight into surveys predicting challenges today and in the future for their clients and their use of land as an asset.
+
 **Contoso basic information:**
 
 - 8 countries, 5,500 employees, £1.3bn Revenue
@@ -13,13 +15,13 @@
   - Security; Compliance; Performance; Availability; Cost variability
 - Enabling Contoso's Business Units to focus on core activities not keeping the lights on so they can downsize in house IT through use of cloud technologies, centralization, and automation
 - Each country currently has autonomous IT with varying standards of DR, backup, and HA. Some countries will see cost savings from cloud others will see an increase as their IT is brought up to meet minimum standards, which were not harmonized prior to this move.
-- Contoso has 173 Applications
+- Contoso has a total of 173 Applications
 
-Contoso's Senior Leadership Team (SLT) have already set the company direction to leverage technology to transform the business and now want a high level business case so they carry out a cost benefit analysis and ensure this key strategic move makes sense at this stage. Further depth in the business case will be built in later stages this is just a litmus test at this stage as the SLT look to release another round of funding.  
+Contoso's Senior Leadership Team (SLT) have already set the company direction to leverage technology to transform the business and now want a high level business case so they carry out a cost benefit analysis and ensure this key strategic move makes sense at this stage. Further depth in the business case will be built in later stages; this is just a litmus test at this stage as the SLT look to release another round of funding.  
 
-Contoso Land Surveying IT team have asked Microsoft to help develop a high-level feasibility study which examines the following:
+Contoso Land Surveying IT team have asked Microsoft and you (the partner) to help them develop a **<u>high-level</u>** feasibility study which examines the following:
 
-- Move to cloud to enable innovation, avoid activities which 'keep lights on' focus on activities which differentiate (core vs context activities)
+- Move to the cloud to enable innovation, reduce "keep lights on" and "firefiighting" activiities so that they can focus more on activities which differentiate (core vs context activities)
 - Return on Investment
   - Must in payback in a 36-month period and lower overall OPEX
   - Cost of change must be paid for in 36-month period
@@ -28,7 +30,7 @@ Contoso Land Surveying IT team have asked Microsoft to help develop a high-level
 - Critical success factors must be clearly articulated
 - High level business case required for CEO, CFO and SLT. To be delivered by CIO
 - Optimise deployment of surveyors by automating their work as much as possible. This will give them a competitive advantage in an already commoditising business
-- Leverage technology such as drones to optimise surveys & offer surveying solutions in areas not possible with people or conventional machines such as underwater, dangerous / hazardous environments or environments with limits on heavy equipment.
+- Leveraging technology such as drones to optimise surveys & offer surveying solutions in areas not possible with people or conventional machines such as underwater, dangerous / hazardous environments or environments with limits on heavy equipment.
 
 Additional possibly relevant information found from various sources:
 

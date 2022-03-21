@@ -1,10 +1,5 @@
 # Tools and templates
 
-- Article
-- 01/31/2022
-- 6 minutes to read
-- 7 contributors
-
 The Cloud Adoption Framework has tools, templates, and assessments that can help you quickly implement technical changes. Use this framework to accelerate your cloud adoption. The following resources can help you in each phase of adoption. These tools, templates, and assessments can be used in multiple phases.
 
 ## [Strategy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#strategy)

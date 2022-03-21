@@ -1,20 +1,8 @@
-# Welcome to CAF Expert learning path
+# CAF Expert learning path - Agenda and Requirements
 
-This learning path is aligned with Azure Advanced Specialization Module A aka "The Cloud Foundation" module which evaluates the use of a consistent methodology and process for Azure adoption that is aligned with customers’ expected outcomes, spanning the entire cloud adoption lifecycle. Azure AS Module A audit Cloud Foundation covers these 5 pillars:
 
-1. Strategy
-2. Plan
-3. Environment readiness and Azure landing zone
-4. Governance
-5. Manage
 
-![CAF Expert](./images/caf-expert.png)
-
-The Microsoft Cloud Adoption (CAF) Framework is an iterative approach to support the digital transformation journey of an organization. It gives a collection of best practices, architectures and methodologies to ensure the integration of cloud into this journey. Having CAF experts in a partner organization enables the partner to become a trusted advisor not only for their customers on their journey to cloud, but also to Microsoft field teams. These “experts” can continuously generate more business with customers along an iterative journey of digital transformation.
-
-> **_Further information please_** [download the PowerPoint](./sources/CAF%20Expert.pdf)
-
-## CAF Introduction
+## Module 1: Cloud Adoption Framework 101
 
 There are multiple sources to get a quick introduction into the Cloud Adoption Framework. There is a CAF learning path in the [Microsoft Docs](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/). This path is also the required pre-learning for the first module.
 

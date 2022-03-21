@@ -14,21 +14,20 @@ Azure AS Module A audit Cloud Foundation covers these 5 pillars:
 
 The Microsoft Cloud Adoption (CAF) Framework is an iterative approach to support the digital transformation journey of an organization. It gives a collection of best practices, architectures and methodologies to ensure the integration of cloud into this journey. Having CAF experts in a partner organization enables the partner to become a trusted advisor not only for their customers on their journey to cloud, but also to Microsoft field teams. These “experts” can continuously generate more business with customers along an iterative journey of digital transformation.
 
-> **_Further information please_** [download the PowerPoint](./sources/CAF%20Expert.pdf)
+> **_Further information please_** [download this document](./sources/CAF%20Expert.pdf)
 
 ## CAF Introduction
 
-There are multiple sources to get a quick introduction into the Cloud Adoption Framework. There is a CAF learning path in the [Microsoft Docs](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/). This path is also the required pre-learning for the first module.
-
-In addition there is [on-demand self learning path in german](https://caf-expert.github.io/caf-intro/) with a lot of videos and links towards tools and other supporting material.
+There are multiple sources to get a quick introduction into the Cloud Adoption Framework. There is a high-level learning path in [Microsoft Docs](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/).
+There is also an on-demand course in the [Microsoft Partner Network](https://partner.microsoft.com/en-us/training/assets/collection/cloud-adoption-framework-for-microsoft-azure#/).
 
 ## The learning path
 
-The learning path is based on three main modules with multiple add-on modules.
+The learning path is based on an in-depth introduction to CAF covering all 5 pillars (as per Azure AS Module A requirements) plus three main modules with multiple hands-on activities.
 
 - [Module 1: Cloud Adoption Framework - Basic](./caf-expert-basic.md)
 - [Module 2: Cloud Adoption Framework - Migration](./caf-expert-migrate.md)
-- [Moudle 3: Cloud Adoption Framework - Advanced](./caf-expert-advanced.md)
+- [Module 3: Cloud Adoption Framework - Advanced](./caf-expert-advanced.md)
 
 ## Module 1: Cloud Adoption Framework - Basic
 

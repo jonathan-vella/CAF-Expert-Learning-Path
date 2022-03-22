@@ -8,7 +8,7 @@ In this workshop, you will learn how to design a migration strategy for an on-pr
 
 At the end of this workshop, you will be better able to rationalize the migration of various workloads to Microsoft Azure as well as understanding how to determine the cost of hosting migrated workloads in Azure.
 
-## Challenges **Work inprogress**
+## Challenges - Draft, Work in progress
 
 [Challenge 1](./challenges/challenge1.md)
 in this challen

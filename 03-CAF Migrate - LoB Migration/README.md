@@ -2,8 +2,6 @@
 
 Adopt: Migrate
 
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
-
 ## Overview
 
 In this workshop, you will learn how to design a migration strategy for an on-premises environments to Azure, including the migration of virtual and physical services as well as databases.

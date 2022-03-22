@@ -4,7 +4,7 @@ Adopt: Migrate
 
 ## Overview
 
-In this workshop, you will learn how to design a migration strategy for an on-premises environments to Azure, including the migration of virtual and physical services as well as databases.
+In this 2-day workshop, you will learn how to design a migration strategy for an on-premises environments to Azure, including the migration of virtual and physical services as well as databases.
 
 At the end of this workshop, you will be better able to rationalize the migration of various workloads to Microsoft Azure as well as understanding how to determine the cost of hosting migrated workloads in Azure.
 

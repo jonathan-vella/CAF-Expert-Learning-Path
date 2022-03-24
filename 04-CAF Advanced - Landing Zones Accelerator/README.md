@@ -34,6 +34,8 @@ At the end of this workshop, you will be able to leverage the existing enterpris
   first deployment
 - HOL
   individual deployment
+- HOL
+  AzGov Visualizer
 
 ## Hackathon Details
 

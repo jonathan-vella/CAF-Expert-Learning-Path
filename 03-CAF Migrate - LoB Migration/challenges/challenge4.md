@@ -1,8 +1,4 @@
-# CAF Hackathon
-
-Adopt: **Migrate**
-
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
+# CAF Hackathon - Adopt: Migrate
 
 In this challenge we will migrate the database and the website server to azure.
 
@@ -15,12 +11,13 @@ We don't provide any additional information - we want your hear your concept and
 1. Describe your concept of migration with your peers and wait for "GO" from the trainer.
 2. Migrate the servers and database to Azure
 
-Have in mind, there are a number of post-migration steps that should be completed before the migrated services is ready for production use. These include:
+Have in mind, there are a number of post-migration steps that should be completed before the migrated services is ready for production use.
+These include:
 
-- Installing the Azure VM Agent
+- The Azure VM Agent has to be installed
 - Cleaning up migration resources
-- Enabling backup and disaster recovery
-- Encrypting VM disks
+- Enabling backup and disaster recovery at scale
+- Encrypting VM disks at scale
 - Ensuring the network is properly secured
 - Ensuring proper subscription governance is in place, such as role-based access control and Azure Policy
 - Reviewing recommendations from Azure Advisor and Security Center

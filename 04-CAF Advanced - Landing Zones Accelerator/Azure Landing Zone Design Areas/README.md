@@ -1,6 +1,7 @@
 # Azure landing zone design areas
 
-ach Azure landing zone implementation option provides a deployment approach and defined design principles. Before choosing an implementation option, use this article to learn about the design areas listed in the following table.
+Each Azure landing zone implementation option provides a deployment approach and defined design principles.
+Before choosing an implementation option, use this article to learn about the design areas listed in the following table.
 
 ## [Environment design areas](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#environment-design-areas)
 

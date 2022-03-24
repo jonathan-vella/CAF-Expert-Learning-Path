@@ -1,14 +1,10 @@
-# CAF Hackathon
+# CAF Hackathon - Adopt: Migrate
 
-Adopt: **Migrate**
-
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
-
-In this challenge we will check if we can migrate the SQL Server to a PaaS SQL Database.
+In this challenge we will assess if we can migrate the SQL Server to a PaaS SQL Database.
 
 ## Challenge 2a
 
-The Contoso Leadership Team has the idea, that it would be better to leverage more PaaS services during the migration than planed. So they ask you to determine wether the existing SQL Server and Databases can be migrated to PaaS Services.
+The customer's Leadership Team has the idea, that it would be better to leverage more PaaS services during the migration than planed. So they ask you to determine wether the existing SQL Server and Databases can be migrated to PaaS Services.
 
 ## Customer information/requirements
 
@@ -19,5 +15,5 @@ The Contoso Leadership Team has the idea, that it would be better to leverage mo
 ## Success criteria
 
 - Provide a list of SQL Databases which can be migrated to PaaS Service for the application owners
-- Give advice what should be done with databases which are not able to be migrated 
-- Give the application owner an idea what they have to change in there application to leverage the databases as PaaS services.
+- Give advice what should be done with databases which are not able to be migrated
+- Give the application owner an idea what they have to change in their application to leverage the databases as PaaS services.

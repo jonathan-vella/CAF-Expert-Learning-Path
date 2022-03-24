@@ -2,7 +2,7 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
+
 
 ## Challenge 2
 
@@ -22,6 +22,6 @@ In this challenge you will have the opportunity to review the organization and u
 
 ## Challenge 2 – Checklist
 
-1. Completed the Governance Benchmark assessment 
-2. Built a ‘skills readiness roadmap’ (enablement plan)
-3. Built a cloud strategy team (referencing the RACI chart)
+1. Built a ‘skills readiness roadmap’ (enablement plan)
+2. Built a cloud strategy team (referencing the RACI chart)
+3. **Bonus** Completed the Governance Benchmark assessment

@@ -2,7 +2,7 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
+
 
 ## Challenge 4
 
@@ -23,3 +23,4 @@ Potential considerations when building the presentation:
 ## Challenge 4 – Checklist
 
 1. Captured content from Challenges 1 through 3 in a presentation format.
+2. Sell it to your coach!

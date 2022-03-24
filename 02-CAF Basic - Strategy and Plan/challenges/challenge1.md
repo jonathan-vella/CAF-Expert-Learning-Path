@@ -1,8 +1,6 @@
-# CAF Hackathon 
+# CAF Hackathon
 
 **Basic** - Strategy, Govern, and Plan
-
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
 
 ## Challenge 1
 
@@ -65,7 +63,7 @@ When building the **business case** (Strategy and plan template), focus on popul
 ## Challenge 1 – Checklist
 
 1. Completed the Cloud Journey Tracker assessment tool
-2. Determined motivations and cloud benefits according to the customer scenario.
+2. Determined at least 3 motivations and cloud benefits according to the customer scenario.
 3. Completed the Business Outcomes template
 4. Completed the Strategy and Plan template (stop at the “Plan” heading)
 5. Documented assumptions

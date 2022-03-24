@@ -2,7 +2,7 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
+
 
 ## Challenge 3
 
@@ -24,4 +24,4 @@ The final assessment will contribute to the team’s business case.  Spend some 
 ## Challenge 3 – Checklist
 
 1. Created an assessment report using the Azure Migrate tool
-2. Included a review of assessment results in the final business case
+2. Rationalized workloads and de-risk by using cloud adoption horizons

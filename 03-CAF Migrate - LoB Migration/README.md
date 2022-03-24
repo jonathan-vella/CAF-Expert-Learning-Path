@@ -11,13 +11,13 @@ At the end of this workshop, you will be better able to rationalize the migratio
 ## Challenges - Draft, Work in progress
 
 [Challenge 1](./challenges/challenge1.md)
-in this challen
+In this whiteboard design session, you will look at how to design an Azure migration for a heterogenous customer environment.
 
 [Challenge 2](./challenges/challenge2.md)
-In this challenge we want to get our first hands on Azure Migrate.
+In this challenge we want to get our first hands-on Azure Migrate.
 
 [Challenge 3](./challenges/challenge3.md)
-In this challenge we will build the LandingZone for the migration.
+In this challenge we will design and build the Landing Zone required for the migration.
 
 [Challenge 4](challenges/challenge4.md)
 In this challenge we will migrate the database and the customer facing website to azure.

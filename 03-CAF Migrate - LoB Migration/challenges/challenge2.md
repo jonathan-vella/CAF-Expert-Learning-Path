@@ -2,7 +2,7 @@
 
 Adopt: **Migrate**
 
-![CAF Hackathon Header](/media/caf-hackathon-header.png)
+
 
 In this challenge we want to get our first hands on Azure Migrate.
 

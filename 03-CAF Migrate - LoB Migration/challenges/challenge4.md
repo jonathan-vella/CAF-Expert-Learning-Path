@@ -14,12 +14,12 @@ We don't provide any additional information - we want your hear your concept and
 Have in mind, there are a number of post-migration steps that should be completed before the migrated services is ready for production use.
 These include:
 
-- The Azure VM Agent has to be installed
-- Cleaning up migration resources
+- Validation that the Azure VM agent is deployed.
 - Enabling backup and disaster recovery at scale
 - Encrypting VM disks at scale
 - Ensuring the network is properly secured
 - Ensuring proper subscription governance is in place, such as role-based access control and Azure Policy
 - Reviewing recommendations from Azure Advisor and Security Center
+- Cleaning up migration resources
 
 If there is time left, please try to perform some of these steps.

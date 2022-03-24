@@ -1,6 +1,6 @@
 # CAF Hackathon - Adopt: Migrate
 
-In this challenge we want to get our first hands on Azure Migrate.
+In this challenge you will be leveraging Azure Migrate to discover and assesses on-premises servers for migration to Azure.
 
 ## Challenge 2
 

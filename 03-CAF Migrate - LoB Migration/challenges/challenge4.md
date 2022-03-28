@@ -9,7 +9,8 @@ Our last challenge is the migration of the webserver and the UbuntuWAF as IaaS t
 We don't provide any additional information - we want your hear your concept and after the concept is discussed, we want your team to migrate to PaaS in Azure. Tasks:
 
 1. Describe your concept of migration with your peers and wait for "GO" from the trainer.
-2. Migrate the servers and database to Azure
+2. Migrate the servers and database to Azure.
+3. If there is time left, assess the application using the App Service Migration Assistant.
 
 Have in mind, there are a number of post-migration steps that should be completed before the migrated services is ready for production use.
 These include:

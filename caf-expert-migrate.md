@@ -27,10 +27,10 @@ At the end of this workshop, you will be better able to rationalize the __migrat
 
 ### Hackathon Day 2 (6h)
 
-- HOL
-Discovery and Assessment
-- Migrate Application Database
-- Migrate Application
+- Hands-On Lab
+  Discovery and Assessment
+  Migrate Application Database
+  Migrate Application
 
 ## Hackathon Details
 

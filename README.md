@@ -18,7 +18,7 @@ The Microsoft Cloud Adoption (CAF) Framework is an iterative approach to support
 
 ---
 ## Prerequisites
-### Please review the requirements (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+### Please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
 ---
 
 ## CAF Introduction

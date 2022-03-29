@@ -37,7 +37,7 @@ This CAF Hackathon enables attendees to understand and get familiar on how the M
 
 By the end of the CAF Hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide you with the tools and understanding that will complement the conversations attendees may be having with their customers.
 
-More info about this module is available [here](.\02-CAF Basic - Strategy and Plan\README.md).
+More info about this module is available [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/02-CAF%20Basic%20-%20Strategy%20and%20Plan/README.md).
 
 ---
 
@@ -49,7 +49,7 @@ In this workshop, you will learn how to design a migration strategy for on-premi
 
 At the end of this workshop, you will be better able to rationalize the migration of various workloads to Microsoft Azure as well as understanding how to determine the cost of hosting migrated workloads in Azure.
 
-More info about this module is available [here](03-CAF Migrate - LoB Migration/README.md).
+More info about this module is available [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/03-CAF%20Migrate%20-%20LoB%20Migration/README.md).
 
 ---
 
@@ -61,4 +61,4 @@ In this workshop, you will learn how the Azure landing zone accelerator enables 
 
 At the end of this workshop, you will be able to leverage the existing reference implementations, be able to build your own as well as understand how to establish policy-driven governance.
 
-More info about this module is available [here](04-CAF Advanced - Landing Zones Accelerator/README.md).
+More info about this module is available [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/04-CAF%20Advanced%20-%20Landing%20Zones%20Accelerator/README.md).

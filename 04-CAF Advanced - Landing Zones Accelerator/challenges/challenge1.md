@@ -14,7 +14,7 @@ Success criteria for this challenge:
 
 - Deploy either the Trey Research or AdventureWorks reference implementation
 
-- **Do not deploy **the integrated CICD pipeline
+- **Do not deploy** the integrated CICD pipeline
   
   ![](C:\Users\jovella\AppData\Roaming\marktext\images\2022-03-29-09-29-03-image.png)
 

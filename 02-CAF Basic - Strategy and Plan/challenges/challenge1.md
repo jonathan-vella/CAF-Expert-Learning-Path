@@ -16,7 +16,7 @@ In this challenge you will learn about the Define Strategy phase from the Cloud 
 
 - This challenge involves documenting motivations, business outcomes, and key stakeholders to clearly articulate and answer “why does the cloud make sense for my business?”.  
 - Keep in mind that each team will be presenting all information back to the customer’s senior leadership team to justify adopting Azure (Challenge 4). Make this clear with your team from the start.
-- Your team should have complete the following items (preferably in order and together but that is up to you):
+- Your team should have completed the following items (preferably in order and together, but that is up to you):
   1. [Cloud Journey Tracker](https://docs.microsoft.com/assessments/?mode=pre-assessment&id=cloud-journey-tracker) – understand the customer’s cloud adoption needs through this **assessment** tool
   2. Capture key **motivations** and **cloud benefits** for adopting the cloud
   3. [Business outcome template spreadsheet](https://archcenter.blob.core.windows.net/cdn/business-outcome-template.xlsx) – document **business outcomes** by key stakeholder
@@ -62,8 +62,8 @@ When building the **business case** (Strategy and plan template), focus on popul
 
 ## Challenge 1 – Checklist
 
-1. Completed the Cloud Journey Tracker assessment tool
-2. Determined at least 3 motivations and cloud benefits according to the customer scenario.
-3. Completed the Business Outcomes template
-4. Completed the Strategy and Plan template (stop at the “Plan” heading)
-5. Documented assumptions
+1. Complete the Cloud Journey Tracker assessment tool
+2. Determine at least 3 motivations and cloud benefits according to the customer scenario.
+3. Complete the Business Outcomes template
+4. Complete the Strategy and Plan template (stop at the “Plan” heading)
+5. Document any assumptions

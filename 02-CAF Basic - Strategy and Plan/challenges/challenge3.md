@@ -21,5 +21,5 @@ The final assessment will contribute to the team’s business case.  Spend some 
 
 ## Challenge 3 – Checklist
 
-1. Create an assessment report using the Azure Migrate tool
-2. High-level workload rationalization which is de-risked by using cloud adoption horizons
+1. Create an assessment report including cost estimates using the Azure Migrate tool
+2. Create a high-level workload rationalization plan which is de-risked by using cloud adoption horizons

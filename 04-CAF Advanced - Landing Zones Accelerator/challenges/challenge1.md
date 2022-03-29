@@ -14,7 +14,7 @@ Success criteria for this challenge:
 
 - Deploy either the Trey Research or AdventureWorks reference implementation
 
-- **Do not deploy** the integrated CICD pipeline ![Drag Racing](.\sources\ESLZ_AzOps_CICD_No.jpg)
+- **Do not deploy** the integrated CICD pipeline ![Enterprise Scale CICD Pipeline for AzOps](./sources/ESLZ_AzOps_CICD_No.jpg)
 
 ## Challenge 2
 

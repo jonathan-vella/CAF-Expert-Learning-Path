@@ -2,8 +2,6 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-
-
 ## Challenge 3
 
 This challenge focuses on preparing an assessment of the anticipated cloud costs.  You will be provided with a spreadsheet of the customer’s real estate.
@@ -23,5 +21,5 @@ The final assessment will contribute to the team’s business case.  Spend some 
 
 ## Challenge 3 – Checklist
 
-1. Created an assessment report using the Azure Migrate tool
-2. Rationalized workloads and de-risk by using cloud adoption horizons
+1. Create an assessment report using the Azure Migrate tool
+2. High-level workload rationalization which is de-risked by using cloud adoption horizons

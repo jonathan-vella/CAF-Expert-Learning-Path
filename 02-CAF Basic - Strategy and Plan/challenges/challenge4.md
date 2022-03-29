@@ -2,8 +2,6 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-
-
 ## Challenge 4
 
 Each team will be presenting a business case to the *customer’s senior leadership team* to justify adopting Azure.  

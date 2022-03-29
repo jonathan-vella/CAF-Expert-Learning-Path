@@ -1,4 +1,4 @@
-# Module 4: Cloud Adoption Framework Hackathon Advanced
+# Module 3: Cloud Adoption Framework Hackathon Advanced
 
 In this workshop, you will learn how to **design an enterprise scale Landing Zone** in Azure. You get familiar with the design principles and the critical design areas.
 

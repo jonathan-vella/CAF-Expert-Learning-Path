@@ -2,8 +2,6 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-
-
 ## Challenge 2
 
 In this challenge you will have the opportunity to review the organization and understand how they can build a governance framework.
@@ -22,6 +20,6 @@ In this challenge you will have the opportunity to review the organization and u
 
 ## Challenge 2 – Checklist
 
-1. Built a ‘skills readiness roadmap’ (enablement plan)
-2. Built a cloud strategy team (referencing the RACI chart)
+1. Build a ‘skills readiness roadmap’ (enablement plan)
+2. Build a cloud strategy team (referencing the RACI chart)
 3. **Bonus** Completed the Governance Benchmark assessment

@@ -13,9 +13,9 @@ During the hackathon, attendees will focus on learning how to leverage the CAF i
 By the end of the CAF Hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide you with the tools and understanding that will complement the conversations attendees may be having with their customers.
 
 ---
-### Prerequisite
-## Before attending please review the requiremments (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
-## Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
+## Prerequisites
+### Before attending please review the requiremments (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+### Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
 ---
 ## Value Proposition
 

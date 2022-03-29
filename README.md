@@ -1,6 +1,6 @@
-# Welcome to the Cloud Adoption Expert learning path
+# Welcome to the Cloud Adoption Expert learning path!
 
-This learning path is aligned with Azure Advanced Specialization Module A aka "The Cloud Foundation" module which evaluates the use of a consistent methodology and process for Azure adoption that is aligned with customers’ expected outcomes, spanning the entire cloud adoption lifecycle.
+This learning path for Microsoft partners is aligned with Azure Advanced Specialization Module A aka "The Cloud Foundation" module which evaluates the use of a consistent methodology and process for Azure adoption that is aligned with customers’ expected outcomes, spanning the entire cloud adoption lifecycle.
 
 Azure Advanced Specialization Module A covers these 5 pillars:
 

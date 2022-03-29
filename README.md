@@ -37,7 +37,7 @@ This CAF Hackathon enables attendees to understand and get familiar on how the M
 
 By the end of the CAF Hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide you with the tools and understanding that will complement the conversations attendees may be having with their customers.
 
-More info about this module is available [here](02-CAF Basic - Strategy and Plan/README.md).
+More info about this module is available [here](.\02-CAF Basic - Strategy and Plan\README.md).
 
 ---
 

@@ -14,7 +14,7 @@ By the end of the CAF Hackathon, attendees will have built a cloud adoption plan
 
 ---
 ## Prerequisites
-### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
 ### Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
 ---
 ## Value Proposition

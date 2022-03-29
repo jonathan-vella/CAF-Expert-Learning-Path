@@ -1,4 +1,4 @@
-# CAF Hackathon
+# Cloud Adoption Expert Module 2: Migrate Like A Pro
 
 Adopt: Migrate
 

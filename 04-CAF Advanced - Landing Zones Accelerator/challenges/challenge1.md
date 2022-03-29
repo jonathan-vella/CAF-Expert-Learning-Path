@@ -14,7 +14,7 @@ Success criteria for this challenge:
 
 - Deploy either the Trey Research or AdventureWorks reference implementation
 
-- **Do not deploy** the integrated CICD pipeline ![ESLZ No AzOps Integration](04-CAF%20Advanced%20-%20Landing%20Zones%20Accelerator/sources/ESLZ_AzOps_CICD_No.jpg)
+- **Do not deploy** the integrated CICD pipeline
 
 ## Challenge 2
 

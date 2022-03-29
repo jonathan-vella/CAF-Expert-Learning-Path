@@ -10,7 +10,7 @@ At the end of this workshop, you will be better able to rationalize the migratio
 
 ---
 ## Prerequisites
-### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
 ---
 ## Challenges
 

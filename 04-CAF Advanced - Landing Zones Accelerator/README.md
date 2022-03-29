@@ -1,37 +1,25 @@
-# Module 3: Cloud Adoption Framework Hackathon Advanced
+# Cloud Adoption Expert Module 3: Azure Landing Zone Accelerator
 
 In this workshop, you will learn how to **design an enterprise scale Landing Zone** in Azure. You get familiar with the design principles and the critical design areas.
 
 At the end of this workshop, you will be able to leverage the existing enterprise scale architectures, able to build your own as well as understanding how to establish a policy driven governance. .
 
+## Pre-learning, certifications, and Azure subscription requirements for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+
 ## Agenda
 
-> ***Pre-Learning:***
-> 
-> [Part 1 - Online training Governance Methodology](https://docs.microsoft.com/learn/modules/build-cloud-governance-strategy-azure/)
-> 
-> [Part 2 - Online training Enterprise Scale](https://docs.microsoft.com/learn/paths/enterprise-scale-architecture/)
-> 
-> [Part 3 - Introduction Well Architected Framework](https://docs.microsoft.com/learn/paths/azure-well-architected-framework/)
+### Hackathon Day 1 (8h)
 
-### Hackathon Day 1 (6h)
-
-- Enterprise Scale Intro
-  design principals
-  Critical design areas
-- WAF Introduction and first steps
-  with the WAF Assessment
+- Azure Landing Zones overview
+- Enterprise Scale introduction
+- Design areas and design principles
 
 ### Hackathon Day 2 (6h)
 
-- Enterprise Scale
-  first deployment
-- HOL
-  individual deployment
-- HOL
-  AzGov Visualizer
-- HOL
-  Azure Review Checklists
+- Landing Zone deployment
+- IaC with GitHub actions
+- AzGov Visualizer
+- Azure Review Checklists
 
 ## Hackathon Details
 

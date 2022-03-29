@@ -2,6 +2,8 @@
 
 **Advanced** - Azure Landing Zones Accelerator
 
+---
+
 ## Challenge 1
 
 In this challenge you will be deploying one of the Enterprise Scale Reference implementations located in this [repository](https://github.com/Azure/Enterprise-Scale).
@@ -15,6 +17,8 @@ Success criteria for this challenge:
 - Deploy either the Trey Research or AdventureWorks reference implementation
 
 - **Do not deploy** the integrated CICD pipeline
+
+---
 
 ## Challenge 2
 

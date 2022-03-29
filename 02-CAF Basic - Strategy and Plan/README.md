@@ -1,4 +1,4 @@
-# CAF Hackathon
+# Cloud Adoption Expert Module 1: Define a Strategy and Build a Plan
 
 **Basic** - Strategy, Govern, and Plan
 

@@ -1,6 +1,6 @@
 # Welcome to the Cloud Adoption Expert learning path!
 
-This learning path for Microsoft partners is aligned with Azure Advanced Specialization Module A aka "The Cloud Foundation" module which evaluates the use of a consistent methodology and process for Azure adoption that is aligned with customers’ expected outcomes, spanning the entire cloud adoption lifecycle.
+This learning path for Microsoft partners is aligned with Module A (aka "The Cloud Foundation") for Azure Advanced Specialization. This module evaluates the use of a consistent methodology and process for Azure adoption that is aligned with customers’ expected outcomes, spanning the entire cloud adoption lifecycle.
 
 Azure Advanced Specialization Module A covers these 5 pillars:
 
@@ -31,7 +31,7 @@ The learning path is based on an in-depth introduction to CAF covering all 5 pil
 
 ## Module 1: Define a Strategy & Build a Plan
 
-### ### Hackathon Module 1
+### Hackathon Module 1
 
 This CAF Hackathon enables attendees to understand and get familiar on how the Microsoft Cloud Adoption Framework for Azure (CAF) can be applied with their customers. This hackathon walks through the Define Strategy and Plan phases of the CAF to support attendees in leading a client engagement that is considering moving their digital assets to Azure.
 
@@ -43,7 +43,7 @@ More info about this module is available [here](https://github.com/jonathan-vell
 
 ## Module 2: Migrate Like A Pro
 
-### ### Hackathon Module 2
+### Hackathon Module 2
 
 In this workshop, you will learn how to design a migration strategy for on-premises environments to Azure, including the migration of virtual and physical services as well as databases.
 

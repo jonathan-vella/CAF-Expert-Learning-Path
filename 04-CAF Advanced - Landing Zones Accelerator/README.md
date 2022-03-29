@@ -5,7 +5,7 @@ In this workshop, you will learn how to **design and deploy an Enterprise Scale 
 At the end of this workshop, you will be able to leverage the existing enterprise scale architectures, build your own as well as understand how to establish policy-driven governance.
 ---
 ## Prerequisites
-### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+### Before attending please review the requirements (self-paced online courses, certifications, Azure subscription) for this module listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
 ---
 ## Agenda
 

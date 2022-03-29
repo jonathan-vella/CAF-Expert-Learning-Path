@@ -17,7 +17,7 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 
 ### Hackathon Day 2 (6h)
 
-- [Challenge 01]((./challenges/caf-advanced-challenges.md) Landing Zone deployment
-- [Challenge 02]((./challenges/caf-advanced-challenges.md) IaC with GitHub actions
-- [Challenge 03]((./challenges/caf-advanced-challenges.md) AzGov Visualizer
-- [Challenge 04]((./challenges/caf-advanced-challenges.md) Azure Review Checklists
+- [Challenge 01](./challenges/caf-advanced-challenges.md) Landing Zone deployment
+- [Challenge 02](./challenges/caf-advanced-challenges.md) IaC with GitHub actions
+- [Challenge 03](./challenges/caf-advanced-challenges.md) AzGov Visualizer
+- [Challenge 04](./challenges/caf-advanced-challenges.md) Azure Review Checklists

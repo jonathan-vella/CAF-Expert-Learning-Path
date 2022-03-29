@@ -11,12 +11,11 @@ This CAF Hackathon simulates a real-world scenario where a company has multiple 
 During the hackathon, attendees will focus on learning how to leverage the CAF in guiding a customer through starting on a successful cloud adoption journey.  Attendees will have the opportunity to gain hands-on experience by creating a business case, building a cloud adoption plan, and leveraging multiple cloud assessment tools to support a customer with justifying their cloud adoption.  
 
 By the end of the CAF Hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide you with the tools and understanding that will complement the conversations attendees may be having with their customers.
-
-## Technologies
-
-- [Microsoft Cloud Adoption Framework for Azure](https://aka.ms/CAF)
-- [Azure Migrate](https://docs.microsoft.com/azure/migrate/)
-
+---
+### Prerequisite
+## Before attending please review the requiremments (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+## Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
+---
 ## Value Proposition
 
 - Understand how the Microsoft Cloud Adoption Framework for Azure can help you in your conversations with your customers.  
@@ -24,18 +23,14 @@ By the end of the CAF Hackathon, attendees will have built a cloud adoption plan
 - Remove any barriers for a successful cloud adoption in the early stages of a customer’s cloud adoption journey.
 - Help guide decisions on to achieve outlined business outcomes through a clear and actionable plan.
 - Learn how the tools in the CAF can help you build and improve the experience of a customer in their cloud journey.
-
+---
 ## Technical Scenarios
 
 - Define Strategy – Identify a customer’s motivations, business outcomes, and business justification when considering moving to the cloud.
 - Plan – Understand the current state of the customer by rationalizing their digital estate and gaining alignment by bringing together the right people who will be responsible for cloud adoption.  This information will drive a cloud adoption plan of a first non-business critical workload.
 - Governance – Create policies to identify and mitigate business risks.  These policies will drive consistency across cloud adoption efforts resulting in a well-managed cloud environment.
-
+---
 ## Challenges in this Hackathon
-
-### Prerequisite
-
-Read thru the [Customer Scenario](./customer-scenario.md) and get familiar with the company **Contoso Land Surveying**.
 
 ### Challenge 1: Establish your Strategy
 
@@ -77,9 +72,4 @@ This challenge focuses on preparing an assessment of the anticipated cloud costs
 This challenge simulates a real-world conversation with your stakeholder’s leadership team.  Here, you will present your case and justify why they should adopt Azure.
 
 [Guide for this challenge...](./challenges/challenge4.md)
-
-## Additional content
-
-- [MS Learn Module Cloud Adoption Framework](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
-- [Documentation Cloud Adoption Framework for Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/)
 

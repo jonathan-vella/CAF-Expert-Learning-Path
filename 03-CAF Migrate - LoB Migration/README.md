@@ -8,7 +8,11 @@ In this 2-day workshop, you will learn how to design a migration strategy for an
 
 At the end of this workshop, you will be better able to rationalize the migration of various workloads to Microsoft Azure as well as understanding how to determine the cost of hosting migrated workloads in Azure.
 
-## Challenges - Draft, Work in progress
+---
+### Prerequisite
+## Before attending please review the requiremments (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+---
+## Challenges
 
 [Challenge 1](./challenges/challenge1.md)
 In this whiteboard design session, you will look at how to design an Azure migration for a heterogenous customer environment.

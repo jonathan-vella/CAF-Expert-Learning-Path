@@ -2,8 +2,6 @@
 
 **Basic** - Strategy, Govern, and Plan
 
-![CAF Hackathon Header](./media/caf-hackathon-header.png)
-
 ## Overview
 
 This CAF Hackathon enables attendees to understand and get familiar on how the Microsoft Cloud Adoption Framework for Azure (CAF) can be applied with their customers.  This hackathon walks through the Define Strategy and Plan phases of the CAF to support attendees in leading a client engagement that is considering moving their digital assets to Azure.

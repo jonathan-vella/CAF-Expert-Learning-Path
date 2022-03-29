@@ -22,13 +22,6 @@ Move your digital assets to the cloud and then optimize them—and your operatio
 
 There’s no single cloud adoption path that works for every organization, but the main implementation stages are similar for all organizations and industries: define your strategy, make a plan, ready your organization, adopt the cloud, and govern and manage your digital estate.
 
-1. Define strategy 
-2. Plan 
-3. Ready 
-4. Adopt 
-5. Govern 
-6. Manage
-
 ## Understand motivations
 
 Understand [cloud economics](https://azure.microsoft.com/en-us/overview/cloud-economics/) and get the financial and technical tips to help develop your cloud strategy and build your business case.

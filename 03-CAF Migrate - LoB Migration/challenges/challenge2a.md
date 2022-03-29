@@ -1,6 +1,6 @@
 # CAF Hackathon - Adopt: Migrate
 
-In this challenge we will assess if we can migrate the SQL Server to a PaaS SQL Database.
+In this challenge you will assess if you can migrate the SQL Server to Azure SQL Database.
 
 ## Challenge 2a
 

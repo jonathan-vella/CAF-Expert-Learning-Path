@@ -4,7 +4,7 @@
 
 ---
 
-## Challenge 1
+## Challenge 1 - Enterprise Scale Deployment
 
 In this challenge you will be deploying one of the Enterprise Scale Reference implementations located in this [repository](https://github.com/Azure/Enterprise-Scale).
 
@@ -20,7 +20,7 @@ Success criteria for this challenge:
 
 ---
 
-## Challenge 2
+## Challenge 2 - IaC with GitHub Actions
 
 In this challenge you will be manually creating a CICD pipeline which will allow you to operate the Azure platform using AzOps (IaC with GitHub Actions).
 
@@ -34,7 +34,7 @@ Success criteria for this challenge:
 
 ---
 
-## Challenge 3
+## Challenge 3 - Governance Reporting
 
 In this challenge you will be implementing [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) which is a PowerShell based script that iterates your Azure Tenant´s Management Group hierarchy down to Subscription level. It captures most relevant Azure governance capabilities such as Azure Policy, RBAC and Blueprints and a lot more. From the collected data AzGovViz provides visibility on your HierarchyMap, creates a TenantSummary, creates DefinitionInsights and builds granular ScopeInsights on Management Groups and Subscriptions.
 
@@ -45,7 +45,7 @@ Success criteria for this challenge:
 
 ---
 
-## Challenge 4
+## Challenge 4 - Azure Design Review
 
 In this challenge you will be doing an Azure design review to double-check that best practices are being followed. You will be using this [repo](https://github.com/Azure/review-checklists) which contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.
 

@@ -4,7 +4,7 @@ In this workshop, you will learn how to **design an enterprise scale Landing Zon
 
 At the end of this workshop, you will be able to leverage the existing enterprise scale architectures, able to build your own as well as understanding how to establish a policy driven governance. .
 
-## Pre-learning, certifications, and Azure subscription requirements for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
+## Before attending please review the requiremments (self-paced online courses, certifications, Azure subscription) for this module are listed [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/agenda-and-requirements.md).
 
 ## Agenda
 

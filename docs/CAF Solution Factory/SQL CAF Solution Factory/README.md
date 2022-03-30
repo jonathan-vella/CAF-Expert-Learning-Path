@@ -9,13 +9,13 @@ The SQL CAF Solution Factory has Technical and Sales Enablement contents for mig
 # SQL CAF Solution Factory Contents
 
 ## Pre-Sales Contents    
- * [WVD CAF Pre-Sales](/SalesEnablement)   
+ * [WVD CAF Pre-Sales](SalesEnablement)   
    PowerPoint that provides Performance Stats showing why SQL Runs Best on Azure  
    PowerPoint for Cloud Adoption Framework Workshops  
 
 
 ## Technical Contents 
-* [eBook: SQL Adoption Aligned To Cloud Adoption Framework](/TechnicalEnablement)
+* [eBook: SQL Adoption Aligned To Cloud Adoption Framework](TechnicalEnablement)
 
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SQL Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SQL migration and management aligned to the Cloud Adoption Framework methodology.
    
@@ -29,18 +29,18 @@ The SQL CAF Solution Factory has Technical and Sales Enablement contents for mig
       05 - CAF Governance Phase for SQL Migration  
       
 
-*  [SQL CAF DevOps Project TaskList](/TechnicalEnablement/SQL_CAF_DevOps_Project_TaskList_Template.zip)
+*  [SQL CAF DevOps Project TaskList](TechnicalEnablement/SQL_CAF_DevOps_Project_TaskList_Template.zip)
     When you go through the SQL migration, its a project with many different activities. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete SQL migration and management. 
 
     Steps to import the DevOps Project:  
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/Account/Verify)  
     * Provide project name, select your Org, and choose the "SQL_CAF_DevOps_Project_TaskList_Template.zip" template from this GitHub Repo 
 
-*  [SQL CAF Project TaskList.xlsx](/TechnicalEnablement/SQL_CAF_Project_TaskList.xlsx)
+*  [SQL CAF Project TaskList.xlsx](TechnicalEnablement/SQL_CAF_Project_TaskList.xlsx)
    Incase if you are not leveraging Azure DevOps for project management, no worries. We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
  
-* [CAF Governance Phase for SQL Migration - Security policies](/TechnicalEnablement/SQLSecurityGovernancePolicies)
+* [CAF Governance Phase for SQL Migration - Security policies](TechnicalEnablement/SQLSecurityGovernancePolicies)
    One common question that we get is what are the security considerations for SQL Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 

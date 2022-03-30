@@ -9,26 +9,26 @@ The Server Migration CAF Solution Factory has Technical and Sales Enablement con
 # Server Migration CAF Solution Factory Contents
 
 ## Pre-Sales Contents    
- * [Server Migration CAF Pre-Sales](/SalesEnablement/)   
+ * [Server Migration CAF Pre-Sales](SalesEnablement/)   
    Sales material for Server Migration and Cloud Adoption Framework
 
-* [eBook: Server Adoption Aligned To Cloud Adoption Framework](/TechnicalEnablement)  
+* [eBook: Server Adoption Aligned To Cloud Adoption Framework](TechnicalEnablement)  
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
-    [eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework](/TechnicalEnablement/1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)  
-    [eBook_ServerMigration_Deployment_Guide](/TechnicalEnablement/2_eBook_ServerMigration_Deployment_Guide.docx)  
+    [eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework](TechnicalEnablement/1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)  
+    [eBook_ServerMigration_Deployment_Guide](TechnicalEnablement/2_eBook_ServerMigration_Deployment_Guide.docx)  
     
 
-*  [Server Migration CAF DevOps Project TaskList](/TechnicalEnablement/ServerMigration_CAF_DevOps_ProjectTaskList.zip)  
+*  [Server Migration CAF DevOps Project TaskList](TechnicalEnablement/ServerMigration_CAF_DevOps_ProjectTaskList.zip)  
     When you go through the Server migration, there are many different activities that needs to be done. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete Server migration and management. 
 
     Steps to import the DevOps Project:   
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)    
-    * Provide project name, select your Org, and choose [Server Migration DevOps Project Tasklist](/TechnicalEnablement/ServerMigration_CAF_DevOps_ProjectTaskList.zip) template from this GitHub Repo 
+    * Provide project name, select your Org, and choose [Server Migration DevOps Project Tasklist](TechnicalEnablement/ServerMigration_CAF_DevOps_ProjectTaskList.zip) template from this GitHub Repo 
 
-*  [Server Migration CAF Project TaskList](/TechnicalEnablement/ServerMigration_CAF_Project_TaskList.xlsx)  
+*  [Server Migration CAF Project TaskList](TechnicalEnablement/ServerMigration_CAF_Project_TaskList.xlsx)  
    If you are not leveraging Azure DevOps for project management, no worries. We have provided all the activities in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
-*  [CAF Governance Security for Server Migration - Security policies](/TechnicalEnablement/ServerMigrationSecurityPolicyGuidance)  
+*  [CAF Governance Security for Server Migration - Security policies](TechnicalEnablement/ServerMigrationSecurityPolicyGuidance)  
    One common question that we get is what are the security considerations for Server Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration.   
 
 

@@ -4,7 +4,7 @@ The Server Migration CAF Solution Factory has contents to help migration of Serv
 The Server Migration CAF Solution Factory has Technical and Sales Enablement contents for migrating Servers to Azure. The sale content contains PowerPoint for Server Migration and CAF. The technical enablement contains eBook that describes what needs to happen during a Server Migration aligned to Cloud Adoption Framework, DevOps Project TaskList to help customers and partners to migrate and manage Servers in Azure in alignment to Cloud Adoption Framework (CAF).  
 
  The Azure Cloud Adoption Journey
- ![CAF](/CAF.png)
+ ![CAF](CAF.png)
 
 # Server Migration CAF Solution Factory Contents
 

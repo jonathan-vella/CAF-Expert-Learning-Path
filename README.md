@@ -65,3 +65,29 @@ In this workshop, you will learn how the Azure landing zone accelerator enables 
 At the end of this workshop, you will be able to leverage the existing reference implementations, be able to build your own as well as understand how to establish policy-driven governance.
 
 More info about this module is available [here](https://github.com/jonathan-vella/CAF-Expert-Learning-Path/blob/main/04-CAF%20Advanced%20-%20Landing%20Zones%20Accelerator/README.md).
+---
+## Contributing
+
+This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide
+a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
+provided by the bot. You will only need to do this once across all repos using our CLA.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+[Azure Architecture Center]:https://docs.microsoft.com/en-us/azure/architecture/
+[Application Architecture Guide]:https://docs.microsoft.com/en-us/azure/architecture/guide/
+[Cloud Adoption Framework]:https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
+[Well-Architected Framework]:https://docs.microsoft.com/en-us/azure/architecture/framework/
+[Microsoft Learn]:https://docs.microsoft.com/en-us/learn/roles/solutions-architect
+[LinkedIn Learning]:https://www.linkedin.com/learning/search?keywords=Cloud%20Computing&u=3322
+[Pluralsight]:https://www.pluralsight.com/browse/cloud-computing
+[Introduction to the Microsoft Azure Cloud Adoption Framework]:https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/
+[Introduction to the Microsoft Azure Well-Architected Framework]:https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/
+[Build great solutions with the Microsoft Azure Well-Architected Framework]:https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/
+

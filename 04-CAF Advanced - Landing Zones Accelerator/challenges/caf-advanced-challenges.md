@@ -12,7 +12,7 @@ Success criteria for this challenge:
 
 - Define if it's a brownfield or greenfield deployment
 
-- Create a high-level deployment workflow including pre-requisites
+- Create a high-level deployment workflow (diagram not a CICD pipeline!) including pre-requisites
 
 - Deploy either the Trey Research or AdventureWorks reference implementation
 

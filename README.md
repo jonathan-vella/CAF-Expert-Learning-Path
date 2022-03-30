@@ -80,14 +80,14 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-[Azure Architecture Center]:https://docs.microsoft.com/en-us/azure/architecture/
-[Application Architecture Guide]:https://docs.microsoft.com/en-us/azure/architecture/guide/
-[Cloud Adoption Framework]:https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
-[Well-Architected Framework]:https://docs.microsoft.com/en-us/azure/architecture/framework/
-[Microsoft Learn]:https://docs.microsoft.com/en-us/learn/roles/solutions-architect
-[LinkedIn Learning]:https://www.linkedin.com/learning/search?keywords=Cloud%20Computing&u=3322
-[Pluralsight]:https://www.pluralsight.com/browse/cloud-computing
-[Introduction to the Microsoft Azure Cloud Adoption Framework]:https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/
-[Introduction to the Microsoft Azure Well-Architected Framework]:https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/
-[Build great solutions with the Microsoft Azure Well-Architected Framework]:https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/
+[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+[Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+[Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+[Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/roles/solutions-architect)
+[LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=Cloud%20Computing&u=3322)
+[Pluralsight](https://www.pluralsight.com/browse/cloud-computing)
+[Introduction to the Microsoft Azure Cloud Adoption Framework](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+[Introduction to the Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/)
+[Build great solutions with the Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/)
 
